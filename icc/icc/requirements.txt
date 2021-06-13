@@ -1,0 +1,6 @@
+altair==4.1.0
+Scrapy==2.5.0
+psycopg2==2.8.6
+SQLAlchemy==1.4.17
+pandas==1.2.4
+streamlit==0.82.0
